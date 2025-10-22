@@ -11,7 +11,7 @@ class _AdityaState extends State<Aditya> {
   Widget build(BuildContext context) {
     return  Scaffold(
       body: Center(
-        child: Text("R"),
+        child: Text("aditya")
       ),
     )
     ;
