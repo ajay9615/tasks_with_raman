@@ -1,4 +1,5 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
 class Aditya extends StatefulWidget {
   const Aditya({super.key});
 
@@ -9,8 +10,6 @@ class Aditya extends StatefulWidget {
 class _AdityaState extends State<Aditya> {
   @override
   Widget build(BuildContext context) {
-    return Scafold(
-
-    );
+    return const Placeholder();
   }
 }
