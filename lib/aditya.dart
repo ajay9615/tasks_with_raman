@@ -1,4 +1,5 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
 class Aditya extends StatefulWidget {
   const Aditya({super.key});
 
@@ -9,7 +10,10 @@ class Aditya extends StatefulWidget {
 class _AdityaState extends State<Aditya> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold( appBar: AppBar(backgroundColor: Colors.red,),)
-;
+    Amrit2
+    return const Placeholder();
+    return Scaffold( appBar: AppBar(backgroundColor: Colors.red,));
+
+
   }
 }
