@@ -9,7 +9,12 @@ class Aditya extends StatefulWidget {
 class _AdityaState extends State<Aditya> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold( appBar: AppBar(backgroundColor: Colors.red,),)
-;
+    return  Scaffold(
+      body: Center(
+        child: Text("R"),
+      ),
+    )
+    ;
+   
   }
 }
