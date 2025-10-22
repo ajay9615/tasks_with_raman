@@ -9,9 +9,6 @@ class Aditya extends StatefulWidget {
 class _AdityaState extends State<Aditya> {
   @override
   Widget build(BuildContext context) {
-    return Scafold(
-        app
-
-    );
+    return Scaffold(backgroundColor: Colors.blueGrey,);
   }
 }
